@@ -1,7 +1,9 @@
 # nlpdemo-ch-wordlib
 中文各种词库
 ## 新浪语料词库-基础版
-压缩后小于25M,就直接放这里下载了.
+链接：https://pan.baidu.com/s/1zXyNoQLMLcOEf32CB8GwGQ 
+提取码：zom6
+![部分示例](https://github.com/mrli008/nlpdemo-ch-wordlib/images/新浪语料词库截图.png)
 ## 舆情词词库
 链接：https://pan.baidu.com/s/1WK-88kjTNM6Jq4eotjI13Q 
 提取码：bzst
